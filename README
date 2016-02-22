@@ -1,0 +1,5 @@
+For a first orientation read the datasheet.
+If you want to reproduce the design, please go to the kicad folder.
+The KiCAD Design files are available here and the gerber files for production.
+
+For 3D printing the case, the design files are in the folder 3D Case.
