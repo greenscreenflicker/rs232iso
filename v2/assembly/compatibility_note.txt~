@@ -1,0 +1,3 @@
+The TPS61070DDCR is pin compatible to MCP1623, but with difference reference voltage.
+
+To use TPS6107, repace R6=51k.
